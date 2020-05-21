@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.10">
+    <ANNOTATIONS>
+      <root url="file://C:/Automation/Passolig-webbapp-automation" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../poi-3.16/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.16/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.16/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.16/curvesapi-1.04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.16/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.16/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.16/poi-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.16/poi-examples-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.16/poi-excelant-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.16/poi-ooxml-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.16/poi-ooxml-schemas-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.16/poi-scratchpad-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.16/xmlbeans-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

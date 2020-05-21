@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-20T02:43:52 EET" name="Itelligence Test Suite" finished-at="2020-05-20T02:47:04 EET" duration-ms="191688">
+    <groups>
+    </groups>
+    <test started-at="2020-05-20T02:43:52 EET" name="LoginTest" finished-at="2020-05-20T02:47:04 EET" duration-ms="191688">
+      <class name="test.tools.webapp.automation.Smoke.DigiTest">
+        <test-method is-config="true" signature="Browserchoose()[pri:0, instance:test.tools.webapp.automation.Smoke.DigiTest@2fd1433e]" started-at="2020-05-20T02:43:52 EET" name="Browserchoose" finished-at="2020-05-20T02:44:39 EET" duration-ms="46864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserchoose -->
+        <test-method signature="DigiTestAdd(java.lang.reflect.Method)[pri:0, instance:test.tools.webapp.automation.Smoke.DigiTest@2fd1433e]" started-at="2020-05-20T02:44:39 EET" name="DigiTestAdd" description="Digi Scenario." finished-at="2020-05-20T02:47:02 EET" duration-ms="143269" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.tools.webapp.automation.Smoke.DigiTest.DigiTestAdd(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DigiTestAdd -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.tools.webapp.automation.Smoke.DigiTest@2fd1433e]" started-at="2020-05-20T02:47:02 EET" name="teardown" finished-at="2020-05-20T02:47:04 EET" duration-ms="1461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.tools.webapp.automation.Smoke.DigiTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- Itelligence Test Suite -->
+</testng-results>
